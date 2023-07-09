@@ -2,7 +2,10 @@
 
 A Software application for the administration, documentation, tracking, reporting, and delivery of educational courses or training programs. They help the instructor deliver material to the students and other assignments, track student progress, and manage record-keeping. LMSs are focused on online learning delivery but support a range of uses, acting as a platform for fully online courses, as well as several hybrid forms, such as blended learning and flipped classrooms. LMSs can be complemented by learning technologies such as a training management system to manage instructor-led training or a Learning Record Store to store and track learning data.
 
-https://github.com/Code-blogger/Learning-management-system/assets/84615558/04222f3a-aa9e-49d6-ba90-1d27d930c32c
+
+https://github.com/Code-blogger/Learning-management-system/assets/84615558/35941df0-cf40-424e-8ddd-dda65deabca6
+
+
 
 ## 💡 Purpose
 
